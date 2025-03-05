@@ -23,9 +23,8 @@ You’ll need these to unleash Pika Vault:
 ### Installation
 #### Clone the Repo
 
-``
-git clone https://github.com/husnain002/pika-vault.git
-cd pika-vault``
+``git clone https://github.com/husnain002/pika-vault.git``
+``cd pika-vault``
 
 #### Install Dependencies
 Zap in the required packages:
