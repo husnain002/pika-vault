@@ -66,4 +66,4 @@ Got a thunderbolt of an idea? Fork this repo, make your changes, and send a pull
 
 This project is licensed under the MIT License—feel free to zap it into your own projects!
 
-Pika Pika! Ready to secure your digital world with the power of Pikachu? Clone, run, and enjoy! ⚡
+_**Pika Pika! Ready to secure your digital world with the power of Pikachu? Clone, run, and enjoy! ⚡**_
