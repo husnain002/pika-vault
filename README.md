@@ -5,12 +5,12 @@ A Pikachu-powered password manager with a zap of security!
 Pika Vault is a sleek, modern password manager built with Python, featuring master password protection, TOTP-based 2FA, and encrypted storage. With a customtkinter GUI and a dash of Pokémon flair, it’s your electrifying solution to keeping credentials safe!
 ## Features ✨
 
-    Master Password: Secure your vault with a strong key.
-    2FA with TOTP: Generate QR codes for extra Pikachu-level protection.
-    Password Generator: Zap out strong, random passwords.
-    Encryption: Powered by Fernet (symmetric encryption) and PBKDF2.
-    SQLite Storage: Keeps your secrets in a local, secure database.
-    Cool UI: Dark mode with a Pikachu-inspired background (optional).
+- **Master Password**: Secure your vault with a strong key.
+- **2FA with TOTP**: Generate QR codes for extra Pikachu-level protection.
+- **Password Generator**: Zap out strong, random passwords.
+- **Encryption**: Powered by Fernet (symmetric encryption) and PBKDF2.
+- **SQLite Storage**: Keeps your secrets in a local, secure database.
+- **Cool UI**: Dark mode with a Pikachu-inspired background (optional).
 
 ## Getting Started ⚡
 ### Prerequisites
@@ -23,8 +23,9 @@ You’ll need these to unleash Pika Vault:
 ### Installation
 #### Clone the Repo
 
+``
 git clone https://github.com/husnain002/pika-vault.git
-cd pika-vault
+cd pika-vault``
 
 #### Install Dependencies
 Zap in the required packages:
@@ -38,12 +39,12 @@ Download pika-back2.jpg (a Pikachu-themed image) and place it in the project fol
 #### Launch the Vault
 
     python pika_vault.py
-First Time?
-        Set up your master password (min 12 characters).
-        Generate a 2FA QR code and scan it with an authenticator app (e.g., Google Authenticator).
-        Create your vault and start storing credentials!
-    Log In
-    Use your master password and TOTP code to unlock the vault. Pika’s watching—don’t mess up too many times, or you’ll get a 30-second timeout!
+#### First Time?
+     -  Set up your master password (min 12 characters).
+     -  Generate a 2FA QR code and scan it with an authenticator app (e.g., Google Authenticator).
+     -  Create your vault and start storing credentials!
+#### Log In
+    - Use your master password and TOTP code to unlock the vault. Pika’s watching—don’t mess up too many times, or you’ll get a 30-second timeout!
 
 ## Usage ⚡
 
@@ -61,7 +62,8 @@ First Time?
 ## Contributing
 
 Got a thunderbolt of an idea? Fork this repo, make your changes, and send a pull request. Let’s make Pika Vault shockingly awesome together!
-License
+
+## License
 
 This project is licensed under the MIT License—feel free to zap it into your own projects!
 
