@@ -1,6 +1,6 @@
 ## Pika Vault ⚡
 
-A Pikachu-powered password manager with a zap of security!
+_A Pikachu-powered password manager with a zap of security!_
 
 Pika Vault is a sleek, modern password manager built with Python, featuring master password protection, TOTP-based 2FA, and encrypted storage. With a customtkinter GUI and a dash of Pokémon flair, it’s your electrifying solution to keeping credentials safe!
 ## Features ✨
