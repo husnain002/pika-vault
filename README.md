@@ -1,3 +1,4 @@
+![Pika Vault Logo](github.jpg)
 ## Pika Vault ⚡
 
 _A Pikachu-powered password manager with a zap of security!_
