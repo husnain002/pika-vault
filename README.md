@@ -1,4 +1,4 @@
-![Pika Vault Logo](git-1.jpg)
+![Pika Vault Logo](git-1.pngs)
 ## Pika Vault ⚡
 
 _A Pikachu-powered password manager with a zap of security!_
