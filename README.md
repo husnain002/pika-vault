@@ -53,11 +53,29 @@ Download pika-back2.jpg (a Pikachu-themed image) and place it in the project fol
     Delete: Zap away unwanted entries with the trash button.
     Lock It: Hit "Lock" to secure your vault anytime.
 
+### Main Screen
+![image](https://github.com/user-attachments/assets/eb5db3e6-b43b-483b-9223-74dfabd323c6)
+
+### Enter Password and Generate 2FA
+![image](https://github.com/user-attachments/assets/65274d8a-c7e9-4123-bab2-b13990a8f341)
+
+### Login into the Vault using the master password and the OTP from Google Authenticator
+![image](https://github.com/user-attachments/assets/200cfc1a-09fa-4dc9-882b-a115470f03d6)
+
+### Main Dashboard 
+![image](https://github.com/user-attachments/assets/0c5a2f32-900b-4a31-b30f-e0e6dd1410af)
+
+### Pika Vault
+![image](https://github.com/user-attachments/assets/0cceb45f-c918-420d-a837-f190d439067d)
+
+
 ## Security Notes 🔒
 
     Passwords are hashed with Argon2 and encrypted with Fernet.
     The database (pika_vault.db) is locked down with 0600 permissions (Unix-like systems).
     Failed login attempts trigger a lockout—Pika doesn’t mess around!
+
+
 
 ## Contributing
 
