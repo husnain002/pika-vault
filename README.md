@@ -1,4 +1,4 @@
-  ![Pika Vault Logo](git-1.png)
+  ![Pika Vault Logo](/assets/git-1.png)
 ## Pika Vault ⚡
 
 _A Pikachu-powered password manager with a zap of security!_
@@ -38,7 +38,7 @@ Download pika-back2.jpg (a Pikachu-themed image) and place it in the project fol
 ### Running the Code
 #### Launch the Vault
 
-    python pika_vault.py
+    python pika_passwordmanager.py
 #### First Time?
      -  Set up your master password (min 12 characters).
      -  Generate a 2FA QR code and scan it with an authenticator app (e.g., Google Authenticator).
