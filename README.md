@@ -24,8 +24,8 @@ You’ll need these to unleash Pika Vault:
 ### Installation
 #### Clone the Repo
 
-``git clone https://github.com/husnain002/pika-vault.git``
-``cd pika-vault``
+    git clone https://github.com/husnain002/pika-vault.git
+    cd pika-vault
 
 #### Install Dependencies
 Zap in the required packages:
@@ -63,10 +63,11 @@ Download pika-back2.jpg (a Pikachu-themed image) and place it in the project fol
 ![image](https://github.com/user-attachments/assets/200cfc1a-09fa-4dc9-882b-a115470f03d6)
 
 ### Main Dashboard 
-![image](https://github.com/user-attachments/assets/0c5a2f32-900b-4a31-b30f-e0e6dd1410af)
+![image](https://github.com/user-attachments/assets/463cbcb2-490c-4546-a673-766cbbfd660e)
 
 ### Pika Vault
-![image](https://github.com/user-attachments/assets/0cceb45f-c918-420d-a837-f190d439067d)
+![image](https://github.com/user-attachments/assets/9ad9e912-b9b8-4b4f-8ff3-afbadaf321d2)
+
 
 
 ## Security Notes 🔒
