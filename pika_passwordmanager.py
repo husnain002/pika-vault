@@ -157,6 +157,8 @@ class PikaVaultApp(ctk.CTk):
         header_frame.pack(fill="x", pady=(0, 10))
         
         ctk.CTkLabel(header_frame, text="Pika Vault ⚡", font=("Pokemon Solid", 16, "bold"), text_color="#FFFF00").pack(side="left", padx=10)
+        ctk.CTkButton(header_frame, text="ℹ About", command=self.show_about, width=60,
+                     fg_color="#FFFF00", text_color="#000000", font=("Pokemon Solid", 12)).pack(side="right", padx=5)
         ctk.CTkButton(header_frame, text="🔒 Lock", command=self.lock_app, width=60, 
                      fg_color="#FF5555", hover_color="#FF7777", font=("Pokemon Solid", 12)).pack(side="right", padx=10)
         
@@ -200,6 +202,15 @@ class PikaVaultApp(ctk.CTk):
         self.scroll_frame.pack(fill="both", expand=True, pady=5)
         
         self.refresh_credentials()
+
+    def show_about(self):
+        messagebox.showinfo("About Pika Vault", 
+                          "Pika Vault Password Manager\n"
+                          "Created by Husnain Shahid\n"
+                          "Date: March 05, 2025\n"
+                          "Website: https://husnainshahid.me/\n"
+                          "Github: https://github.com/husnain002\n"
+                          "A secure place for your Pika passwords!")
 
     def refresh_credentials(self):
         for widget in self.scroll_frame.winfo_children():
